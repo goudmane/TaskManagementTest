@@ -7,7 +7,7 @@ Follow the steps below to set up and run the application.
 ### 1. Unzip the Project
 Extract the contents of the archive:
 ```sh
-unzip TaskManagementTest.zip
+unzip TaskManagementTest-master.zip
 ```
 
 ### 2. Install Dependencies
